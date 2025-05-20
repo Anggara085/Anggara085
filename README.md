@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Anggara Putra, a Indonesian Web Developer 👋🏼:
 
-🛜 currently working on my own [webpage](https://www.linkedin.com/in/anggaraputrameldyantono/)<br>🎓 Currently pursuing a Bachelor's degree in Informatics Engineering at Sultan Agung Islamic University (IPK: 3.83) <br>💻 Web Developer since 2022 with hands-on experience in HTML, CSS, JavaScript, TypeScript, Node.js, and cloud platforms like AWS & Azure <br>🎤 Public speaker & webinar host on tech topics, including cybersecurity soft skills <br>📹 Starting to create content on tech and development on YouTube soon! <br>🎯 Actively involved in student leadership, teaching assistant roles, and national-level innovation programs <br> 📧 <a href="mailto:anggaraputra085@gmail.com">anggaraputra085@gmail.com</a><br> 🔗 <a href="https://www.linkedin.com/in/anggaraputrameldyantono/" target="_blank">LinkedIn Profile</a>
+🛜 currently working on my own [webpage](https://portofolioanggara.vercel.app/)<br>🎓 Currently pursuing a Bachelor's degree in Informatics Engineering at Sultan Agung Islamic University (IPK: 3.83) <br>💻 Web Developer since 2022 with hands-on experience in HTML, CSS, JavaScript, TypeScript, Node.js, and cloud platforms like AWS & Azure <br>🎤 Public speaker & webinar host on tech topics, including cybersecurity soft skills <br>📹 Starting to create content on tech and development on YouTube soon! <br>🎯 Actively involved in student leadership, teaching assistant roles, and national-level innovation programs <br> 📧 <a href="mailto:anggaraputra085@gmail.com">anggaraputra085@gmail.com</a><br> 🔗 <a href="https://www.linkedin.com/in/anggaraputrameldyantono/" target="_blank">LinkedIn Profile</a>
 
 # 💻 Tech Stack:
 
